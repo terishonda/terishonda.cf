@@ -120,7 +120,8 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br><br>
 
 
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
-Tox: 671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75
+Tox: <mark>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</mark>
+Monero: <mark>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</mark>
 <hr>
 <p>terishonda.cf<p>	
 <body>

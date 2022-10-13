@@ -1,4 +1,22 @@
 <title>terishonda</title>
+<style>
+  @font-face {
+		font-family: 'Hauss'; 
+		src: url(ALSHAUSS-BOOK.TTF); 
+	}
+	 
+	/* Жирный */
+	@font-face {
+		font-family: 'ALSHAUSS-MEDIUM.TTF'; 
+		src: url(bold.ttf); 
+	}
+
+*{
+	font-family: Hauss;
+}
+  
+  </style>
+
 <link rel="stylesheet" href="main.css" />
 <script type="text/javascript" src="main.js"></script>
 <!---

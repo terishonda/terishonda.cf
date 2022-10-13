@@ -26,8 +26,8 @@ function updateTime(){
     var currentTime = new Date();
 var status = "Available ✔️";
 
-    var h = currentTime.getHours()
-    var m = currentTime.getMinutes()
+    var h = currentTime.getHours();
+    var m = currentTime.getMinutes();
     if (m < 10){
         m = "0" + m;
     }

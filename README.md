@@ -1,4 +1,4 @@
-<title>terishonda</title>
+
 <style>
   @font-face {
 		font-family: 'Hauss'; 
@@ -48,5 +48,6 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
     document.getElementById('tglink').innerHTML = "<a href='"+this.value + "'>"+this.value+"</a>";
     });
 </script>
+<div id="tglink"></div><br>
 <hr>
 

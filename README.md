@@ -4,7 +4,7 @@ EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 
-📩 For <u>personal issues</u> contact me at: <div id="tglink"></div><br>
+📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">
 <option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
 <option value="TerisLabendzki.t.me">@TerisLabendzki</option>
@@ -23,6 +23,7 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
     });
 </script>
 
+<div id="tglink"></div>
 
 <hr>
 <!---

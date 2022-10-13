@@ -5,7 +5,7 @@ GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br
 TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
-<select>
+<select id="telegram">
 <option value="111">T3R15H0ND4.t.me</option>
 <option value="222">TerisLabendzki.t.me</option>
 <option>labedzki.t.me</option>
@@ -17,10 +17,10 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 <option>terishond4.t.me</option>
 </select><br>
 
-<div id="mydiv">Цена: 111</div>
+<div id="tglink">Цена: 111</div>
 <script type="text/javascript">
-    document.getElementById("myselect").addEventListener("change", function(){
-      document.getElementById('mydiv').innerHTML = "Цена: "+this.value;
+    document.getElementById("telegram").addEventListener("change", function(){
+      document.getElementById('tglink').innerHTML = "Цена: "+this.value;
     });
 </script>
 

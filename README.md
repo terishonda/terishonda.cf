@@ -86,8 +86,8 @@ if (d == 0)
 }
 
     
-	document.getElementById('status_span').innerHTML = status + "   " + t_str;
-    check();
+	document.getElementById('status_span').innerHTML = t_str + " " +status;
+    
 }
 setInterval(updateTime, 1000);
 

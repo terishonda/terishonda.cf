@@ -24,7 +24,7 @@ var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturda
 
 function updateTime(){
     var currentTime = new Date();
-var status = "Available ✔️";
+var status = "Available ✅";
 
 d = currentTime.getDay();
     h = currentTime.getHours();

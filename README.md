@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
-TG: <a href="terrishonda">TELEGRAM (main)</a><br>
+TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">

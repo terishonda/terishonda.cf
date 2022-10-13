@@ -88,7 +88,7 @@ setInterval(updateTime, 1000);
 terishonda/terishonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<body align=center>
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
 
 Right now I’m...<br>
@@ -122,5 +122,5 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 Tox: 671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75
 <hr>
-
+<body>
 

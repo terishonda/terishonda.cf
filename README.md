@@ -31,7 +31,7 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">
-<option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
+<option value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
 <option value="TerisLabendzki.t.me">@TerisLabendzki</option>
 <option value="labedzki.t.me">@labedzki</option>
 <option value="MrLabendzki.t.me">@MrLabendzki</option>
@@ -41,11 +41,12 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <option value="terish0nda.t.me">@terish0nda</option>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
-
-<script>document.getElementById("telegram").addEventListener("change", function(){
-    document.getElementById('tglink').innerHTML = "<a href='https://"+this.value + "'>"+this.value+"</a>";
+👉👉
+<div id="tglink"></div><br>
+<script type="text/javascript">
+    document.getElementById("telegram").addEventListener("change", function(){
+      document.getElementById('tglink').innerHTML = "Цена: "+this.value;
     });
 </script>
-👉👉 <div id="tglink"> </div><br>
 <hr>
 

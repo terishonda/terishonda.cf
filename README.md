@@ -14,6 +14,11 @@
 *{
 	font-family: Hauss;
 }
+	
+mark {
+  background-color: #99CCFF;
+  color: black;
+}
   
   </style>
 

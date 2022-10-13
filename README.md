@@ -18,59 +18,86 @@
   </style>
 
 <script>
-	(function (global) {
-    "use strict";
-    function Clock(el) {
-        var document = global.document;
-        this.el = document.getElementById(el);
-        this.months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-        this.days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-    }
-    Clock.prototype.addZero = function (i) {
-        if (i < 10) {
-            i = "0" + i;
-            return i;
-        }
-        return i;
-    };
-    Clock.prototype.updateClock = function () {
-        var now, year, month, dayNo, day, hour, minute, second, result, self;
-        now = new global.Date();
-        year = now.getFullYear();
-        month = now.getMonth();
-        dayNo = now.getDay();
-        day = now.getDate();
-        hour = this.addZero(now.getHours());
-        minute = this.addZero(now.getMinutes());
-        second = this.addZero(now.getSeconds());
-        result = this.days[dayNo] + ", " + day + " " + this.months[month] + " " + year + " " + hour + ":" + minute + ":" + second;
-        self = this;
-        self.el.innerHTML = result;
-        global.setTimeout(function () {
-            self.updateClock();
-        }, 1000);
-    };
-    global.Clock = Clock;
-}(window));
 
-function addEvent(elm, evType, fn, useCapture) {
-    "use strict";
-    if (elm.addEventListener) {
-        elm.addEventListener(evType, fn, useCapture);
-    } else if (elm.attachEvent) {
-        elm.attachEvent('on' + evType, fn);
-    } else {
-        elm['on' + evType] = fn;
+var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+
+function updateTime(){
+    var currentTime = new Date();
+var status = "Available ✔️";
+var t_Str = "";
+    var h = currentTime.getHours()
+    var m = currentTime.getMinutes()
+    if (m < 10){
+        m = "0" + m;
     }
+	if (h != 0) { var t_str = h + ":" + m + " ";}
+	if (h == 0) { var t_str = 12 + ":" + m + " ";}
+    if(h > 11){
+        t_str += "PM";
+    } else {
+        t_str += "AM";
+    }
+
+var d = currentTime.getDay();
+    var h = currentTime.getHours();
+
+
+
+ if (h >= 2 && h <= 7) {
+  status = "Sleeping... 💤";
 }
 
-addEvent(window, "load", function () {
-    if (document.getElementById("clock")) {
-        var clock = new Clock("clock");
-        clock.updateClock();
-    }
-});
+
+if (d == 1 && h>=13 && h<=19)
+{
+	status = "Busy. ⚠️ Do not disturb.";
+}
+
+if (d == 2 && h>=7 && h<=21)
+{
+	status = "Busy. ⚠️ Do not disturb.";
+}
+
+if (d == 3 && h>=12 && h<=15)
+{
+	status = "Busy. ⚠️ Do not disturb.";
+}
+
+if (d == 4 && h>=7 && h<=13)
+{
+	status = "Busy. ⚠️ Do not disturb.";
+}
+
+if (d == 5)
+{
+
+}
+
+if (d == 6 && h>=7 && h<=12)
+{
+	status = "Busy. ⚠️ Do not disturb.";
+}
+
+
+if (d == 0)
+{
+
+}
+
+    document.getElementById('time_span').innerHTML = t_str;
+	document.getElementById('status_span').innerHTML = status;
+    check();
+}
+setInterval(updateTime, 1000);
+
+
 </script>
+<div id="time_span">1
+</div>
+
+<div id="status_span">2
+</div>
 
 
 <!---

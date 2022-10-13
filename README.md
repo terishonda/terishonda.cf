@@ -31,7 +31,7 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">
-<option value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
+<option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
 <option value="TerisLabendzki.t.me">@TerisLabendzki</option>
 <option value="labedzki.t.me">@labedzki</option>
 <option value="MrLabendzki.t.me">@MrLabendzki</option>
@@ -41,16 +41,17 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <option value="terish0nda.t.me">@terish0nda</option>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
-<p>👉👉</p><div id="tglink"></div><br>
+👇👇
+<div id="tglink"></div><br>
 <script type="text/javascript">
  document.getElementById("telegram").addEventListener("change", function(){
-    document.getElementById('tglink').innerHTML = this.value;
+	document.getElementById('tglink').innerHTML = "<a href="+this.value+">+"this.value+"</a>";
     });
 </script>
 
 
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
-Tox: <pre>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</pre>
+Tox: 671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75
 <hr>
 
 

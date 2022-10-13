@@ -45,7 +45,7 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <div id="tglink">https://T3R15H0ND4.t.me</div><br>
 <script type="text/javascript">
  document.getElementById("telegram").addEventListener("change", function(){
-	document.getElementById('tglink').innerHTML = "<a href='https://"+this.value+"'>123</a>";
+	document.getElementById('tglink').innerHTML = this.value;
     });
 </script>
 

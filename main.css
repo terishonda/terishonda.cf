@@ -1,0 +1,10 @@
+@font-face {
+		font-family: 'Hauss'; 
+		src: url(font.ttf); 
+	}
+	 
+	/* Жирный */
+	@font-face {
+		font-family: 'Haus bold'; 
+		src: url(bold.ttf); 
+	}

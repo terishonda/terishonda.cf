@@ -17,79 +17,6 @@
   
   </style>
 
-<script>
-
-var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-
-
-function updateTime(){
-    var currentTime = new Date();
-var status = "Available ✔️";
-var  t_str ="";
-    var h = currentTime.getHours();
-    var m = currentTime.getMinutes();
-    if (m < 10){
-        m = "0" + m;
-    }
-	if (h != 0) { var t_str = h + ":" + m + " ";}
-	if (h == 0) { var t_str = 12 + ":" + m + " ";}
-    if(h > 11){
-        t_str += "PM";
-    } else {
-        t_str += "AM";
-    }
-
-var d = currentTime.getDay();
-    var h = currentTime.getHours();
-
-
-
- if (h >= 2 && h <= 7) {
-  status = "Sleeping... 💤";
-}
-
-
-if (d == 1 && h>=13 && h<=19)
-{
-	status = "Busy...  ⚠️ Do not disturb.";
-}
-
-if (d == 2 && h>=7 && h<=21)
-{
-	status = "Busy...  ⚠️ Do not disturb.";
-}
-
-if (d == 3 && h>=12 && h<=15)
-{
-	status = "Busy...  ⚠️ Do not disturb.";
-}
-
-if (d == 4 && h>=7 && h<=13)
-{
-	status = "Busy...  ⚠️ Do not disturb.";
-}
-
-if (d == 5)
-{
-
-}
-
-if (d == 6 && h>=7 && h<=12)
-{
-	status = "Busy...  ⚠️ Do not disturb.";
-}
-
-
-if (d == 0)
-{
-
-}
-    document.getElementById('time_span').innerHTML = t_str;
-	document.getElementById('status_span').innerHTML = status;
-    check();
-}
-setInterval(updateTime, 1000);
-</script>
 
 
 
@@ -100,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
 Right now I’m...<br>
-<div id="status_span">status</div><br>
+
 - 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>

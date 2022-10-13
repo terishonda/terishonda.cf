@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
+<p id="clock">Javascript Clock</p>
 Right now I’m...<br>
 
 - 📫 How to reach me ... <br>

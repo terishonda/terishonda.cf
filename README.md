@@ -4,7 +4,7 @@ EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 
-📩 For personal issues contact me at:
+📩 For personal issues contact me at:<br>
 <select>
 <option value="111">T3R15H0ND4.t.me</option>
 <option value="222">TerisLabendzki.t.me</option>

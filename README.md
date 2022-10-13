@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
 Right now I’m:<br>
-<div id="status">status</div><br>
+<div style="margin:0; padding:0;" id="status">status</div><br>
 - 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
@@ -44,7 +44,7 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
 👇👇
-<div id="tglink">T3R15H0ND4.t.me</div><br>
+<div style="margin:0; padding:0;" id="tglink">T3R15H0ND4.t.me</div><br>
 <script type="text/javascript">
  document.getElementById("telegram").addEventListener("change", function(){
 	document.getElementById('tglink').innerHTML = this.value;

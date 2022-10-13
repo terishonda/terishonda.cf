@@ -49,5 +49,7 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
     });
 </script>
 <div id="tglink">2</div><br>
+
+Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 <hr>
 

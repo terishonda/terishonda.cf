@@ -6,21 +6,21 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">
-<option value="111">T3R15H0ND4.t.me</option>
-<option value="222">TerisLabendzki.t.me</option>
-<option>labedzki.t.me</option>
-<option>MrLabendzki.t.me</option>
-<option>terishondaa.t.me</option>
-<option>TerisLabedzki.t.me</option>
-<option>terrrishonda.t.me</option>
-<option>terish0nda.t.me</option>
-<option>terishond4.t.me</option>
+<option value="T3R15H0ND4.t.me">T3R15H0ND4.t.me</option>
+<option value="TerisLabendzki.t.me">TerisLabendzki.t.me</option>
+<option value="labedzki.t.me">labedzki.t.me</option>
+<option value="MrLabendzki.t.me">MrLabendzki.t.me</option>
+<option value="terishondaa.t.me">terishondaa.t.me</option>
+<option value="TerisLabedzki.t.me">TerisLabedzki.t.me</option>
+<option value="terrrishonda.t.me">terrrishonda.t.me</option>
+<option value="terish0nda.t.me">terish0nda.t.me</option>
+<option value="terishond4.t.me">terishond4.t.me</option>
 </select><br>
 
-<div id="tglink">Цена: 111</div>
+<div id="tglink"></div>
 <script type="text/javascript">
     document.getElementById("telegram").addEventListener("change", function(){
-      document.getElementById('tglink').innerHTML = "Цена: "+this.value;
+    document.getElementById('tglink').innerHTML = "<a href='"+this.value + "'>"+this.value+"</a>";
     });
 </script>
 

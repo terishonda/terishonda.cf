@@ -22,7 +22,7 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 <option value="terrrishonda.t.me">@terrrishonda</option>
 <option value="terish0nda.t.me">@terish0nda</option>
 <option value="terishond4.t.me">@terishond4</option>
-</select><br>
+</select>
 👉👉 <div id="tglink"></div>
 
 <hr>

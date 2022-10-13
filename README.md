@@ -16,7 +16,7 @@
 }
 	
 mark {
-  background-color: #99CCFF;
+  background-color: #bdbacf;
   color: black;
 }
   
@@ -129,6 +129,6 @@ Tox: <mark>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E6690649
 Monero: <mark>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</mark><br>
 BTC: <mark>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</mark>
 <hr>
-<p>terishonda.cf<p>	
+<p><small>terishonda.cf<small><p>	
 <body>
 

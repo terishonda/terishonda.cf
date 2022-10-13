@@ -23,7 +23,7 @@ terishonda/terishonda is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hello, that's homepage of Teris Labendzki<br>
+- 👋 Hello, that's homepage of <b>Teris Labendzki<b><br>
 Right now I’m: <div id="status">status</div><br>
 - 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>

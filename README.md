@@ -17,8 +17,7 @@
   
   </style>
 
-<link rel="stylesheet" href="main.css" />
-<script type="text/javascript" src="main.js"></script>
+
 <!---
 terishonda/terishonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,6 +42,11 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
 👉👉 <div id="tglink"></div>
+
+<script>document.getElementById("telegram").addEventListener("change", function(){
+    document.getElementById('tglink').innerHTML = "<a href='"+this.value + "'>"+this.value+"</a>";
+    });
+</script>
 11
 <hr>
 

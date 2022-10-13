@@ -93,7 +93,7 @@ setInterval(updateTime, 1000);
 
 
 </script>
-<div id="time_span">1</div>
+
 
 
 

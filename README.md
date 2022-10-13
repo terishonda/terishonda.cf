@@ -31,16 +31,17 @@ var t_str = "";
     if (m < 10){
         m = "0" + m;
     }
-	if (h != 0) { var t_str = h + ":" + m + " ";}
-	if (h == 0) { var t_str = 12 + ":" + m + " ";}
+		h =h % 12;
+	if (h != 0) { t_str = h + ":" + m + " ";}
+	if (h == 0) { t_str = 12 + ":" + m + " ";}
     if(h > 11){
         t_str += "PM";
     } else {
         t_str += "AM";
     }
 
-var d = currentTime.getDay();
-    var h = currentTime.getHours();
+d = currentTime.getDay();
+    h = currentTime.getHours();
 
 
 

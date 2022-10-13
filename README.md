@@ -25,20 +25,6 @@ var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturda
 function updateTime(){
     var currentTime = new Date();
 var status = "Available ✔️";
-var t_str = "";
-    var h = currentTime.getHours()
-    var m = currentTime.getMinutes()
-    if (m < 10){
-        m = "0" + m;
-    }
-	h =h % 12;
-	if (h != 0) { t_str = h + ":" + m + " ";}
-	if (h == 0) { t_str = 12 + ":" + m + " ";}
-    if(h > 11){
-        t_str += "PM";
-    } else {
-        t_str += "AM";
-    }
 
 d = currentTime.getDay();
     h = currentTime.getHours();
@@ -87,7 +73,7 @@ if (d == 0)
 }
 
     
-	document.getElementById('status_span').innerHTML = t_str + " " +status;
+	document.getElementById('status_span').innerHTML = status;
     
 }
 setInterval(updateTime, 1000);

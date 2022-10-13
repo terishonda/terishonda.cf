@@ -25,7 +25,7 @@ var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturda
 function updateTime(){
     var currentTime = new Date();
 var status = "Available ✔️";
-var t_Str = "";
+var t_str = "";
     var h = currentTime.getHours()
     var m = currentTime.getMinutes()
     if (m < 10){
@@ -85,8 +85,8 @@ if (d == 0)
 
 }
 
-    document.getElementById('time_span').innerHTML = t_str;
-	document.getElementById('status_span').innerHTML = status;
+    
+	document.getElementById('status_span').innerHTML = status + "   " + t_str;
     check();
 }
 setInterval(updateTime, 1000);

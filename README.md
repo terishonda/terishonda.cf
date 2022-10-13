@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
-Right now I’m:<br>
+Right now I’m...<br>
 <div style="margin:0; padding:0;" id="status">status</div><br>
 - 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>

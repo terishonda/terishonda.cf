@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
-It's<br>
+	<div style="margin:0; padding:0;">It's</div><br>
 <div style="margin:0; padding:0;" id="time_span">timetimetimetime</div><br>
 Right now I’m...<br>
 	<div style="margin:0; padding:0;" id="status_span">status</div><br>

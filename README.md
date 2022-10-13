@@ -100,7 +100,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
 It's<br>
-<div style="margin:0; padding:0;" id="time_span">status</div><br>
+<div style="margin:0; padding:0;" id="time_span">time</div><br>
 Right now I’m...<br>
 <div style="margin:0; padding:0;" id="status_span">status</div><br>
 - 📫 How to reach me ... <br>

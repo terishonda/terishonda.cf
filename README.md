@@ -23,13 +23,6 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 <option value="terish0nda.t.me">@terish0nda</option>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
-
-<script type="text/javascript">
-    document.getElementById("telegram").addEventListener("change", function(){
-    document.getElementById('tglink').innerHTML = "<a href='"+this.value + "'>"+this.value+"</a>";
-    });
-</script>
-
 👉👉 <div id="tglink"></div>
 
 <hr>

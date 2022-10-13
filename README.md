@@ -30,7 +30,7 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
     });
 </script>
 
-<div id="tglink"></div>
+👉👉 <div id="tglink"></div>
 
 <hr>
 

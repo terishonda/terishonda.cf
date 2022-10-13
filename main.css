@@ -8,3 +8,7 @@
 		font-family: 'ALSHAUSS-MEDIUM.TTF'; 
 		src: url(bold.ttf); 
 	}
+
+*{
+	font-family: Hauss;
+}

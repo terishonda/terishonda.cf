@@ -41,12 +41,11 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <option value="terish0nda.t.me">@terish0nda</option>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
-👉👉 <div id="tglink"> </div><br>
 
 <script>document.getElementById("telegram").addEventListener("change", function(){
     document.getElementById('tglink').innerHTML = "<a href='https://"+this.value + "'>"+this.value+"</a>";
     });
 </script>
-11
+👉👉 <div id="tglink"> </div><br>
 <hr>
 

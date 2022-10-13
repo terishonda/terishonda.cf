@@ -4,9 +4,9 @@ EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 
-📩 For <u>personal issues</u> contact me at:<br>
+📩 For <u>personal issues</u> contact me at: <div id="tglink"></div><br>
 <select id="telegram">
-<option value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
+<option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
 <option value="TerisLabendzki.t.me">@TerisLabendzki</option>
 <option value="labedzki.t.me">@labedzki</option>
 <option value="MrLabendzki.t.me">@MrLabendzki</option>
@@ -17,7 +17,6 @@ TG: <a href="terrishonda">TELEGRAM (main)</a><br>
 <option value="terishond4.t.me">@terishond4</option>
 </select><br>
 
-<div id="tglink"></div>
 <script type="text/javascript">
     document.getElementById("telegram").addEventListener("change", function(){
     document.getElementById('tglink').innerHTML = "<a href='"+this.value + "'>"+this.value+"</a>";

@@ -51,22 +51,22 @@ var d = currentTime.getDay();
 
 if (d == 1 && h>=13 && h<=19)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy...  ⚠️ Do not disturb.";
 }
 
 if (d == 2 && h>=7 && h<=21)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy...  ⚠️ Do not disturb.";
 }
 
 if (d == 3 && h>=12 && h<=15)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy...  ⚠️ Do not disturb.";
 }
 
 if (d == 4 && h>=7 && h<=13)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy...  ⚠️ Do not disturb.";
 }
 
 if (d == 5)
@@ -76,7 +76,7 @@ if (d == 5)
 
 if (d == 6 && h>=7 && h<=12)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy...  ⚠️ Do not disturb.";
 }
 
 

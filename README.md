@@ -97,11 +97,11 @@ terishonda/terishonda is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <body>
-- 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
+• 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
 
 Right now I’m...<br>
 <div id="status_span">Refreshing...</div><br>
-- 📫 How to reach me ... <br>
+• 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
@@ -137,7 +137,7 @@ TOR: <a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.on
 ArchWiki: <a href="https://twitter.com/@terishonda](https://wiki.archlinux.org/title/User:Terishonda">Terishonda</a><br>
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 <br><br>
-- 💰 Wallets<br>
+• 💰 Wallets<br>
 XMR (Monero): <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>
 BTC (Bitcoin): <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
 ETH (Ethereum): <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>

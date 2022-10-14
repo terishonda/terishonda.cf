@@ -61,9 +61,9 @@ if (d == 4 && h>=7 && h<=13)
 	status = "Busy. ⚠️ Do not disturb.";
 }
 
-if (d == 5)
+if (d == 5 && h <= 11)
 {
-
+ status = "Sleeping... 💤";
 }
 
 if (d == 6 && h>=7 && h<=12)

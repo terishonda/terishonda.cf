@@ -1,4 +1,4 @@
-
+<title>Teris Labendzki - terishonda - Homepage </title>
 <style>
   @font-face {
 		font-family: 'Hauss'; 

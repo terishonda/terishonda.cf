@@ -15,9 +15,14 @@
 }
 	
 mark {
-  background-color: ##C5DDE6;
+  background-color: #C5DDE6;
   color: black;
 }
+	
+mark::hover {
+  background-color: #3EBCE6;
+  color: black;
+}	
   
   </style>
 

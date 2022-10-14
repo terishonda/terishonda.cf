@@ -102,7 +102,7 @@ Right now I’m...<br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
-TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
+TG: <a href="https://terrishonda">TELEGRAM (main)</a><br><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">
@@ -120,7 +120,7 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 <div style="margin:0; padding:0;" id="tglink">T3R15H0ND4.t.me</div><br>
 <script type="text/javascript">
  document.getElementById("telegram").addEventListener("change", function(){
-	document.getElementById('tglink').innerHTML = this.value;
+	document.getElementById('tglink').innerHTML = "http://"+this.value;
     });
 </script>
 

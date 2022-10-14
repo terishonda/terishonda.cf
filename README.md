@@ -43,22 +43,22 @@ d = currentTime.getUTCDay();
 
 if (d == 1 && h>=10 && h<16)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
 
 if (d == 2 && h>=4 && h<18)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
 
 if (d == 3 && h>=8 && h<12)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
 
 if (d == 4 && h>=4 && h<10)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
 
 if (d == 5 && h < 7)
@@ -68,7 +68,7 @@ if (d == 5 && h < 7)
 
 if (d == 6 && h>=4 && h<9)
 {
-	status = "Busy. ⚠️ Do not disturb.";
+	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
 
 
@@ -77,7 +77,7 @@ if (d == 0 && h < 7)
 	status = "Sleeping... 💤";
 } else {
 if (d == 0 && h >= 7)
-	status = "Having a weekend 📴";
+	status = "Having a weekend. 📵";
 }
 
     

@@ -137,9 +137,9 @@ ArchWiki: <a href="https://twitter.com/@terishonda](https://wiki.archlinux.org/t
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 <br><br>
 • 💰 Wallets<br>
-XMR: <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>
-BTC: <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
-ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
+XMR (Monero): <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>
+BTC (Bitcoin): <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
+ETH (Ethereum): <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
 
 <hr>
 <p><small>terishonda.cf<small><p>	

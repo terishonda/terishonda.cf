@@ -16,7 +16,7 @@
 }
 	
 mark {
-  background-color: #bdbacf;
+  background-color: #8cbcd0;
   color: black;
 }
   

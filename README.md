@@ -36,7 +36,7 @@ d = currentTime.getUTCDay();
 
 
 
- if (h >= 0 && h < 4) {
+ if (h >= 0 && h <= 4) {
   status = "Sleeping... 💤";
 }
 

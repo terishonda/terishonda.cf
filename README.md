@@ -72,9 +72,12 @@ if (d == 6 && h>=4 && h<9)
 }
 
 
-if (d == 0)
+if (d == 0 && h < 7)
 {
-
+	status = "Sleeping... 💤";
+} else {
+if (d == 0 && h >= 7)
+	status = "Having a weekend 📴";
 }
 
     

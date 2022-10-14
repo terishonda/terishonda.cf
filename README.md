@@ -142,6 +142,7 @@ XMR (Monero): <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYK
 BTC (Bitcoin): <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
 ETH (Ethereum): <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
 LTC (Litecoin): <mark><small>LRayutQwSfUqdvi8ZZ1cYcWXc9jao88VVL</small></mark><br>
+XRP (Ripple): <mark><small>rH9fXKHvM7uo4SndEqit93Q7eYyg342jnz</small></mark><br>
 DOT (Polkadot): <mark><small>1whFGNmfCukrRBGePLrYFxp6n6USxmnCGNMuKHJ4x4yGXZn</small></mark><br>	
 SOL (Solana): <mark><small>F5UQW256dfjeFvM6FeLT3jmPsgm4w1oCkGo7bXeAXgUP</small></mark><br>	
 ADA (Cardano): <mark><small>addr1q93m9m69jxct6axzm0pz5xmv9e8a73pttumwc49u2jr2tntrkth5tydsh46v9k7z9gdkctj0mazzkheka32tc4yx5hxsnejnd0</small></mark><br>

@@ -19,8 +19,9 @@ mark {
   color: black;
 }
 	
-mark::hover {
+mark:hover {
   background-color: #3EBCE6;
+	text-decoration: underline;
   color: black;
 }	
   

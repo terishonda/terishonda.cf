@@ -102,7 +102,8 @@ Right now I’m...<br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
-TG: <a href="https://terrishonda">TELEGRAM (main)</a><br><br>
+[matrix]: <a href="">@terishonda:matrix.org</a><br>
+TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <select id="telegram">

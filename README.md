@@ -131,21 +131,17 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>
 Wire: <a href="https://account.wire.com/user-profile/?id=24850570-86b7-45f4-ae94-77eef86043ea">@terishonda</a><br>
-Tox: <mark>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</mark><br>
+Tox: <mark><small>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</small></mark><br>
 TOR: <a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion</a><br>	
 
 ArchWiki: <a href="https://twitter.com/@terishonda](https://wiki.archlinux.org/title/User:Terishonda">Terishonda</a><br>
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 <br><br>
 • 💰 Wallets<br>
-XMR (Monero): <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>
-BTC (Bitcoin): <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
-ETH (Ethereum): <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
-LTC (Litecoin): <mark><small>LRayutQwSfUqdvi8ZZ1cYcWXc9jao88VVL</small></mark><br>
-XRP (Ripple): <mark><small>rH9fXKHvM7uo4SndEqit93Q7eYyg342jnz</small></mark><br>
-DOT (Polkadot): <mark><small>1whFGNmfCukrRBGePLrYFxp6n6USxmnCGNMuKHJ4x4yGXZn</small></mark><br>	
-SOL (Solana): <mark><small>F5UQW256dfjeFvM6FeLT3jmPsgm4w1oCkGo7bXeAXgUP</small></mark><br>	
-ADA (Cardano): <mark><small>addr1q93m9m69jxct6axzm0pz5xmv9e8a73pttumwc49u2jr2tntrkth5tydsh46v9k7z9gdkctj0mazzkheka32tc4yx5hxsnejnd0</small></mark><br>
+XMR: <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>
+BTC: <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
+ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
+
 <hr>
 <p><small>terishonda.cf<small><p>	
 <body>

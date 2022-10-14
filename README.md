@@ -117,10 +117,10 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 <option value="TerisLabedzki.t.me">@TerisLabedzki</option>
 <option value="terrrishonda.t.me">@terrrishonda</option>
 <option value="terish0nda.t.me">@terish0nda</option>
-<option value="terishond4.t.me">@terishond4</option>
+<option value="terishond4.t.me">@terishond4</option><br>
 </select>
-👇👇
-<html><div style="margin:0; padding:0;" id="tglink">https://T3R15H0ND4.t.me</div><html><br>
+👇👇<br>
+<div style="margin:0; padding:0;" id="tglink">https://T3R15H0ND4.t.me</div><br>
 <script type="text/javascript">
  document.getElementById("telegram").addEventListener("change", function(){
 	document.getElementById('tglink').innerHTML = "https://"+this.value;

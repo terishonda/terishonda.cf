@@ -138,8 +138,13 @@ ArchWiki: <a href="https://twitter.com/@terishonda](https://wiki.archlinux.org/t
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 <br><br>
 
-Monero: <mark>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</mark><br>
-BTC: <mark>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</mark><br>	
+XMR (Monero): <mark>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</mark><br>
+BTC (Bitcoin): <mark>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</mark><br>
+ETH (Ethereum): <mark>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</mark><br>
+LTC (Litecoin): <mark>LRayutQwSfUqdvi8ZZ1cYcWXc9jao88VVL</mark><br>
+ADA (Cardano): <mark>addr1q93m9m69jxct6axzm0pz5xmv9e8a73pttumwc49u2jr2tntrkth5tydsh46v9k7z9gdkctj0mazzkheka32tc4yx5hxsnejnd0</mark><br>
+DOT (Polkadot): <mark>1whFGNmfCukrRBGePLrYFxp6n6USxmnCGNMuKHJ4x4yGXZn</mark><br>	
+	
 	<hr>
 <p><small>terishonda.cf<small><p>	
 <body>

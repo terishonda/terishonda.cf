@@ -36,37 +36,37 @@ d = currentTime.getDay();
 
 
 
- if (h >= 2 && h <= 7) {
+ if (h >= 2 && h < 7) {
   status = "Sleeping... 💤";
 }
 
 
-if (d == 1 && h>=13 && h<=19)
+if (d == 1 && h>=13 && h<19)
 {
 	status = "Busy. ⚠️ Do not disturb.";
 }
 
-if (d == 2 && h>=7 && h<=21)
+if (d == 2 && h>=7 && h<21)
 {
 	status = "Busy. ⚠️ Do not disturb.";
 }
 
-if (d == 3 && h>=12 && h<=15)
+if (d == 3 && h>=12 && h<15)
 {
 	status = "Busy. ⚠️ Do not disturb.";
 }
 
-if (d == 4 && h>=7 && h<=13)
+if (d == 4 && h>=7 && h<13)
 {
 	status = "Busy. ⚠️ Do not disturb.";
 }
 
-if (d == 5 && h <= 11)
+if (d == 5 && h < 11)
 {
  status = "Sleeping... 💤";
 }
 
-if (d == 6 && h>=7 && h<=12)
+if (d == 6 && h>=7 && h<12)
 {
 	status = "Busy. ⚠️ Do not disturb.";
 }

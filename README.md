@@ -102,7 +102,6 @@ Right now I’m...<br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
-[matrix]: <a href="">@terishonda:matrix.org</a><br>
 TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
@@ -126,6 +125,8 @@ TG: <a href="https://terrishonda">TELEGRAM (main)</a><br>
 </script>
 
 
+[matrix]: @terishonda:matrix.org<br>
+IRC: terishonda@Libera<br>
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 Tox: <mark>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</mark><br>
 Monero: <mark>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</mark><br>

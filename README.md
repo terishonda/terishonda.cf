@@ -1,4 +1,3 @@
-theme: minima
 <style>
   @font-face {
 		font-family: 'Hauss'; 

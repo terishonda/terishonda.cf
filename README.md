@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hello, that's homepage of <b>Teris Labendzki</b><br>
 
 Right now I’m...<br>
-<div id="status_span">status</div><br>
+<div id="status_span">Refreshing...</div><br>
 - 📫 How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>

@@ -140,10 +140,8 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>
 Wire: <a href="https://account.wire.com/user-profile/?id=24850570-86b7-45f4-ae94-77eef86043ea">@terishonda</a><br>
-Tox: <mark><small>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</small></mark><br>
-TOR: <a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion</a><br>	
+Tox: <mark><small>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</small></mark><br>	
 
-ArchWiki: <a href="https://wiki.archlinux.org/title/User:Terishonda">Terishonda</a><br>
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
 <br><br>
 • 💰 Wallets<br>
@@ -152,6 +150,9 @@ BTC: <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
 ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
 
 <hr>
-<p><small>terishonda.cf<small><p>	
+<p align="center"><small>terishonda.cf<small>
+<small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion</a><br>	
+<small> 2022 </small>
+</p>	
 <body>
 

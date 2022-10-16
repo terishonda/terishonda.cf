@@ -136,7 +136,7 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM [main]</a><br><br>
 </script>
 -->
 
-• 👁‍🗨 Also look out</br>
+• 👁‍🗨 Also look out<br>
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>
 Wire: <a href="https://account.wire.com/user-profile/?id=24850570-86b7-45f4-ae94-77eef86043ea">@terishonda</a><br>

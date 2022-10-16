@@ -114,7 +114,7 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
 <a href="https://T3R15H0ND4.t.me">@T3R15H0ND4</a><br>
-<a href="https://TerisLabendzki.t.me">@TerisLabendzki</a><br>
+<a href="https://TerisLabendzki.t.me">@TerisLabendzki</a><br><br>
 <!--
 <select id="telegram">
 <option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
@@ -135,7 +135,7 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
     });
 </script>
 -->
-<?php echo "123"; ?>
+
 
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>

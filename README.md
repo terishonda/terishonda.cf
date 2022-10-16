@@ -152,6 +152,6 @@ ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
 <hr>
 <div align="center"><small>terishonda.cf    </small>
 <small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion [TOR]</a><br>	
-<small> 2022 </small></div>
+<small> 2022 </small>
 <body>
 

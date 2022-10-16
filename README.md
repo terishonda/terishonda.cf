@@ -150,8 +150,8 @@ BTC: <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
 ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
 
 <hr>
-<h6 align="center"><small>terishonda.cf</small>
-<small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion</a><br>	
+<h6 align="center"><small>terishonda.cf    </small>
+<small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion [TOR]</a><br>	
 <small> 2022 </small></h6>
 <body>
 

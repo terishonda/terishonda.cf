@@ -112,7 +112,7 @@ GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br
 Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
 TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 
-📩 For <u>personal issues</u> contact me at:<br>
+• 📩 For <u>personal issues</u> contact me at:<br>
 <a href="https://T3R15H0ND4.t.me">@T3R15H0ND4</a><br>
 <a href="https://TerisLabendzki.t.me">@TerisLabendzki</a><br><br>
 <!--
@@ -136,7 +136,7 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 </script>
 -->
 
-
+• 👁‍🗨 Also look out</br>
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>
 Wire: <a href="https://account.wire.com/user-profile/?id=24850570-86b7-45f4-ae94-77eef86043ea">@terishonda</a><br>
@@ -150,9 +150,8 @@ BTC: <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
 ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
 
 <hr>
-<p align="center"><small>terishonda.cf</small>
+<h6 align="center"><small>terishonda.cf</small>
 <small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion</a><br>	
-<small> 2022 </small>
-</p>	
+<small> 2022 </small></h6>
 <body>
 

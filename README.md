@@ -143,7 +143,7 @@ Wire: <a href="https://account.wire.com/user-profile/?id=24850570-86b7-45f4-ae94
 Tox: <mark><small>671653251EC1749E8DA508084BD67D82F0843A4268EDB7DC4FD2657260AA9E669064921F2E75</small></mark><br>	
 
 Twitter: <a href="https://twitter.com/@terishonda">Teris Labendzki</a><br>
-TG Channel: <a href="https://t.me/+iOhnfO8JQqYzMDhi">APHORISMES</a><br>
+TG Channel: <a href="https://t.me/+iOhnfO8JQqYzMDhi"><small>4PH0R15M35</small></a><br>
 <br><br>
 <big>💰</big> Wallets :<br>
 XMR: <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>

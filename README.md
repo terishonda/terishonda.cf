@@ -113,6 +113,9 @@ Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
 TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 
 📩 For <u>personal issues</u> contact me at:<br>
+<a href="https://T3R15H0ND4.t.me">@T3R15H0ND4</a><br>
+<a href="https://TerisLabendzki.t.me">@TerisLabendzki</a><br>
+<!--
 <select id="telegram">
 <option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
 <option value="TerisLabendzki.t.me">@TerisLabendzki</option>
@@ -131,7 +134,8 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM (main)</a><br><br>
 	document.getElementById('tglink').innerHTML = "https://"+this.value;
     });
 </script>
-
+-->
+<?php echo "123"; ?>
 
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>

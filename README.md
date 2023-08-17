@@ -40,10 +40,10 @@ d = currentTime.getUTCDay();
 
 
 
- if (h >= 0 && h <= 7) {
-  status = "Sleeping... 💤";
+ if (h >= 0 && h <= 7)
+{
+	status = "Sleeping... 💤";
 }
-
 
 if (h>=8 && h<=16)
 {
@@ -53,16 +53,15 @@ if (h>=8 && h<=16)
 if (d == 0 && h < 9)
 {
 	status = "Sleeping... 💤";
-} else {
-if (d == 0 && h >= 9)
-	status = "Having a weekend. 📵";
 }
-
-    
-	document.getElementById('status_span').innerHTML = status;
+else
+{
+if (d == 0 && h >= 9) status = "Having a weekend. 📵";
+}
+document.getElementById('status_span').innerHTML = status;
     
 }
-setInterval(updateTime, 1000);
+setInterval(updateTime, 10000);
 
 
 </script>
@@ -83,24 +82,12 @@ Right now I’m...<br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>
 GMail: <a href="mailto:terislabendzki@gmail.com">terislabendzki@gmail.com</a><br>
 Jabber: <a href="xmpp:terishonda@jabbim.pl?message">terishonda@jabbim.pl</a><br>
-TG: <a href="https://terrishonda.t.me">TELEGRAM [main]</a><br><br>
+TG: <a href="https://T3R15H0ND4.t.me">TELEGRAM [main]</a><br><br>
 
 <big>📩</big> For <u>working issues</u> contact me at : <br>
 <a href="https://T3R15H0ND4.t.me">@T3R15H0ND4</a><br>
 <a href="https://TerisLabendzki.t.me">@TerisLabendzki</a><br><br>
-<!--
-<select id="telegram">
-<option selected="selected" value="T3R15H0ND4.t.me">@T3R15H0ND4</option>
-<option value="TerisLabendzki.t.me">@TerisLabendzki</option>
-<option value="labedzki.t.me">@labedzki</option>
-<option value="MrLabendzki.t.me">@MrLabendzki</option>
-<option value="terishondaa.t.me">@terishondaa</option>
-<option value="TerisLabedzki.t.me">@TerisLabedzki</option>
-<option value="terrrishonda.t.me">@terrrishonda</option>
-<option value="terish0nda.t.me">@terish0nda</option>
-<option value="terishond4.t.me">@terishond4</option>
-</select><br>
-👇👇<br>
+
 <div style="margin:0; padding:0;" id="tglink">https://T3R15H0ND4.t.me</div><br>
 <script type="text/javascript">
  document.getElementById("telegram").addEventListener("change", function(){

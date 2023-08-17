@@ -76,7 +76,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <body>
 <big>👋</big> Hello, that's homepage of <b>Teris Labendzki</b><br>
-
+Right now I’m...<br>
+<div id="status_span">Refreshing...</div><br>
 
 <big>📫</big> How to reach me ... <br>
 EMail: <a href="mailto:terislabendzki@wp.pl">terislabendzki@wp.pl</a><br>

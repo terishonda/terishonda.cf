@@ -61,7 +61,7 @@ if (d == 0 && h >= 9) status = "Having a weekend. 📵";
 document.getElementById('status_span').innerHTML = status;
     
 }
-setInterval(updateTime, 10000);
+setInterval(updateTime, 1000);
 
 
 </script>

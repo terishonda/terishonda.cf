@@ -4,7 +4,6 @@
 		src: url(ALSHAUSS-BOOK.TTF); 
 	}
 	 
-	/* Жирный */
 	@font-face {
 		font-family: 'ALSHAUSS-MEDIUM.TTF'; 
 		src: url(bold.ttf); 
@@ -41,47 +40,21 @@ d = currentTime.getUTCDay();
 
 
 
- if (h >= 0 && h <= 4) {
+ if (h >= 0 && h <= 7) {
   status = "Sleeping... 💤";
 }
 
 
-if (d == 1 && h>=10 && h<16)
+if (h>=8 && h<=16)
 {
 	status = "Busy. ⚠️ Do not disturb. ⛔";
 }
 
-if (d == 2 && h>=4 && h<18)
-{
-	status = "Busy. ⚠️ Do not disturb. ⛔";
-}
-
-if (d == 3 && h>=8 && h<12)
-{
-	status = "Busy. ⚠️ Do not disturb. ⛔";
-}
-
-if (d == 4 && h>=4 && h<10)
-{
-	status = "Busy. ⚠️ Do not disturb. ⛔";
-}
-
-if (d == 5 && h < 7)
-{
- status = "Sleeping... 💤";
-}
-
-if (d == 6 && h>=4 && h<18)
-{
-	status = "Busy. ⚠️ Do not disturb. ⛔";
-}
-
-
-if (d == 0 && h < 7)
+if (d == 0 && h < 9)
 {
 	status = "Sleeping... 💤";
 } else {
-if (d == 0 && h >= 7)
+if (d == 0 && h >= 9)
 	status = "Having a weekend. 📵";
 }
 
@@ -135,7 +108,7 @@ TG: <a href="https://terrishonda.t.me">TELEGRAM [main]</a><br><br>
 </script>
 -->
 
-<big>🤝</big> Also look out ...<br>
+<big>🤝</big> Also check ...<br>
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>
 Wire: <a href="https://account.wire.com/user-profile/?id=24850570-86b7-45f4-ae94-77eef86043ea">@terishonda</a><br>
@@ -148,7 +121,7 @@ TG Channel: <a href="https://t.me/+iOhnfO8JQqYzMDhi"><small>4PH0R15M35</small></
 XMR: <mark><small>43JuFNejybMYXgq6zJL51f3QJhdRM2HxwBqJ9bmjX9wbHsPm5KmYKq82gLybRYqDXy2r6PDxBJHEjX4PdMrpBmiNEDzNQau</small></mark><br>
 BTC: <mark><small>bc1qjlh3h622pwewx6fepad0v4v44xrygpvrerxak5</small></mark><br>
 ETH: <mark><small>0x5b0E72a4708251280EbA2d39d51222ce91113F0D</small></mark><br>
-
+TON: <mark><small>EQAt9Xg4PLrNAz61pKe4tHk5ysr3VDf89zn4t6r6bxOsuW2q</small></mark><br>
 <hr>
 <div align="center"><small>terishonda.cf    </small>
 <small><a href="http://ed5hju7ynb3r44rpfbllahhgubivsnbkqtpggxy53hywafy56qzturad.onion">.onion [TOR]</a><br>	

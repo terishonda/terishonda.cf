@@ -88,14 +88,6 @@ TG: <a href="https://T3R15H0ND4.t.me">TELEGRAM [main]</a><br><br>
 <a href="https://T3R15H0ND4.t.me">@T3R15H0ND4</a><br>
 <a href="https://TerisLabendzki.t.me">@TerisLabendzki</a><br><br>
 
-<div style="margin:0; padding:0;" id="tglink">https://T3R15H0ND4.t.me</div><br>
-<script type="text/javascript">
- document.getElementById("telegram").addEventListener("change", function(){
-	document.getElementById('tglink').innerHTML = "https://"+this.value;
-    });
-</script>
--->
-
 <big>🤝</big> Also check ...<br>
 [matrix]: @terishonda:matrix.org<br>
 IRC: terishonda@Libera<br>
